@@ -1,0 +1,40 @@
+_repo: A-History-of-French-LiteratureShort-Histories-of-the-Literatures-of-the-World--II._24700
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dowden, Edward
+    birthdate: 1843
+    deathdate: 1913
+    gutenberg_agent_id: '4643'
+    url: http://www.gutenberg.org/2009/agents/4643
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Dowden
+  editor:
+    agent_name: Gosse, Edmund
+    aliases:
+    - Gosse, Edmund William, Sir
+    - Gosse, Edmund W. (Edmund William)
+    birthdate: 1849
+    deathdate: 1928
+    gutenberg_agent_id: '959'
+    url: http://www.gutenberg.org/2009/agents/959
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
+description: ''
+gutenberg_bookshelf: France
+gutenberg_issued: '2008-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24700'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature -- History and criticism'
+- !lcc 'PQ'
+title: 'A History of French Literature
+
+  Short Histories of the Literatures of the World: II.'
+url: http://www.gutenberg.org/ebooks/24700
