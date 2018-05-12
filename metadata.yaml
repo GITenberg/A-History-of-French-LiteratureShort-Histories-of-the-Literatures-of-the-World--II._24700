@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/959
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Gosse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24700#A-History-of-French-LiteratureShort-Histories-of-the-Literatures-of-the-World--II.
 gutenberg_bookshelf: France
 gutenberg_issued: '2008-02-27'
 gutenberg_type: Text
